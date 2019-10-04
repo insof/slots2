@@ -1,0 +1,124 @@
+{
+    "images": [
+        {
+            "name": "sym1",
+            "src": "sym1.png",
+            "width": 128,
+            "height": 128,
+            "frames": 1,
+            "layers": 1,
+            "totalFrames": 1
+        },
+        {
+            "name": "sym2",
+            "src": "sym2.png",
+            "width": 128,
+            "height": 128,
+            "frames": 1,
+            "layers": 1,
+            "totalFrames": 1
+        },
+        {
+            "name": "sym3",
+            "src": "sym3.png",
+            "width": 128,
+            "height": 128,
+            "frames": 1,
+            "layers": 1,
+            "totalFrames": 1
+        },
+        {
+            "name": "sym4",
+            "src": "sym4.png",
+            "width": 128,
+            "height": 128,
+            "frames": 1,
+            "layers": 1,
+            "totalFrames": 1
+        },
+        {
+            "name": "sym5",
+            "src": "sym5.png",
+            "width": 128,
+            "height": 128,
+            "frames": 1,
+            "layers": 1,
+            "totalFrames": 1
+        },
+        {
+            "name": "back",
+            "src": "back.jpg",
+            "width": 960,
+            "height": 539,
+            "frames": 1,
+            "layers": 1,
+            "totalFrames": 1
+        },
+        {
+            "name": "play",
+            "src": "play.png",
+            "width": 185,
+            "height": 185,
+            "frames": 1,
+            "layers": 1,
+            "totalFrames": 1
+        },
+        {
+            "name": "play_disabled",
+            "src": "play_disabled.png",
+            "width": 185,
+            "height": 185,
+            "frames": 1,
+            "layers": 1,
+            "totalFrames": 1
+        },
+        {
+            "name": "rotate",
+            "src": "rotate.png",
+            "width": 512,
+            "height": 512,
+            "frames": 1,
+            "layers": 1,
+            "totalFrames": 1
+        },
+        {
+            "name": "reel",
+            "src": "reel.png",
+            "width": 140,
+            "height": 396,
+            "frames": 1,
+            "layers": 1,
+            "totalFrames": 1
+        },
+        {
+            "name": "plus",
+            "src": "plus.png",
+            "width": 256,
+            "height": 256,
+            "frames": 1,
+            "layers": 1,
+            "totalFrames": 1
+        },
+        {
+            "name": "minus",
+            "src": "minus.png",
+            "width": 256,
+            "height": 256,
+            "frames": 1,
+            "layers": 1,
+            "totalFrames": 1
+        },
+        {
+            "name": "win_bg",
+            "src": "win_bg.png",
+            "width": 128,
+            "height": 128,
+            "frames": 1,
+            "layers": 1,
+            "totalFrames": 1
+        }
+    ],
+    "sounds": [
+       
+    ]
+}
